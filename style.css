@@ -5,8 +5,8 @@
     box-sizing: bobrder-box;
 }
 .container{
-    width: 100%;
-    height: 100vh;
+    width: auto;
+    height: auto;
     background:#e3f9ff;
     display: flex;
     align-items: center;
